@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty", ATTRS{idVendor}=="2341", ATTRS{idProduct}=="0042", ATTRS{serial}=="75830303934351615282", GROUP="plugdev", SYMLINK+="fanctrl", MODE:="0666"
